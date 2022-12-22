@@ -4,18 +4,20 @@
 
 <p style="font-family: 'Pacifico', cursive;" >I am <b><i>Yaseen</i></b>, welcome to my GitHub Repository, I'm a <b><i>Full stack Developer</i></b>, javascript is my main tool.You can check my profile links for more.</p>
 </div>
-<!-- 
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">  -->
+
+<img align = "right" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> 
 
 
-<img align = "right" src = "./img/giphy (1).gif">
+<!-- <img align = "right" src = "./img/giphy (1).gif"> -->
 <!-- <img src="https://komarev.com/ghpvc/?username=Md-Yaseen-Dev" alt="Md-Yaseen-Dev" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Yaseen-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Md-Yaseen-Dev"  width="100" height="25"/> </p>
  
  <!-- ![](./img/giphy.gif) -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Md-Yaseen-Dev&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Yaseen-Dev&layout=compact&theme=white&langs_count=10)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Md-Yaseen-Dev&show_icons=true)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Yaseen-Dev&layout=compact&theme=white&langs_count=10) -->
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Yaseen-Dev)
 
