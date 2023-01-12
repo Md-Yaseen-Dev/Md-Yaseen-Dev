@@ -2,13 +2,18 @@
 	<b>Hey Visitor </b> 🖐🏻
 <hr>
 
+
 <p style="font-family: 'Pacifico', cursive;" >I am <b><i>Yaseen</i></b>, welcome to my GitHub Repository, I'm a <b><i>Full stack Developer</i></b>, javascript is my main tool.You can check my profile links for more.</p>
 </div>
 
-<img align = "right" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> 
+
+<div align="center">
+ <!-- <img height="300px" width="550" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" /> -->
+</div>
+<!-- <img align = "right" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">  -->
 
 
-<!-- <img align = "right" src = "./img/giphy (1).gif"> -->
+<img align = "right" src = "./img/giphy (1).gif">
 <!-- <img src="https://komarev.com/ghpvc/?username=Md-Yaseen-Dev" alt="Md-Yaseen-Dev" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Yaseen-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Md-Yaseen-Dev"  width="100" height="25"/> </p>
