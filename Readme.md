@@ -1,7 +1,8 @@
-	<div align=center >
-	<b>Hey Visitor </b> 🖐🏻
-<hr>
+<div align="center">
+<b> Hey Visitors🖐🏻</b>
+</div>
 
+<hr>
 
 
 <p style="font-family: 'Pacifico', cursive;" >I am <b><i>Yaseen</i></b> welcome to my GitHub Repository, I'm a self taught <b><i>Full stack Developer</i></b>, javascript is my main tool.You can check my profile links for more.</p>
