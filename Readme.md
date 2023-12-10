@@ -36,8 +36,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammad-yaseen-0a3175251/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mohammad-yaseen-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mohammad-yaseen-0a3175251/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mohammad%20yaseen-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mohammadyaseen.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohammadyaseen.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [DEEPAK1164](https://github.com/Md-Yaseen-Dev)
+⭐️ From [Md-Yaseen-Dev](https://github.com/Md-Yaseen-Dev)
