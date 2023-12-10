@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤩 &nbsp; Enjoying in Exploring more about Data Structure and Algorithms and Learning Full stack.
-- 🎓 &nbsp; Studying Master of computer Application.
+- 🎓 &nbsp; Studying Master of Computer Application.
 - 🌱 &nbsp; Learning more about Software Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
